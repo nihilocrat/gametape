@@ -1,0 +1,8 @@
+{
+    "sideA" : {
+        "White Butterfly" : "White Butterfly/Butterfly.exe"
+    },
+    "sideB" : {
+        "Norrland" : "norrland.exe"
+    }
+}
